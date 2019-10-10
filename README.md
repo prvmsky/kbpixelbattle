@@ -1,8 +1,8 @@
-# New PixelBattle Bot (если будут ошибки - в [эту](https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg) конфу спрашивать )
+# Бот для пиксель баттл (вк, КБ)
 ### Установка PC
 1. Использовать браузер **Chrome** или **Yandex**
 2. Скачать расширение [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-3. Нажать на [эту](https://github.com/JesferMonkaS/newpixelbot/raw/master/bot.user.js) ссылку
+3. Нажать на [эту](https://raw.githubusercontent.com/prvmsky/kbpixelbattle/master/bot.user.js) ссылку
 4. Установить [AdBlock](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom/related?hl=ru)
 5. Нажать на адблок
 ![ad](https://i.imgur.com/nOV2MS6.png)
@@ -19,7 +19,7 @@
 ### Установка Android
 1. Скачать браузер [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox)
 2. Установить расширение [ViolentMonkey](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/)
-3. Нажать на [эту](https://github.com/JesferMonkaS/newpixelbot/raw/master/bot.user.js) ссылку
+3. Нажать на [эту](https://raw.githubusercontent.com/prvmsky/kbpixelbattle/master/bot.user.js) ссылку
 4. Установить [AdBlock](https://addons.mozilla.org/ru/firefox/addon/adblock-for-firefox/)
 5. Вставить фильтр из инструкции для ПК (три точки - AdBlock - шестерёнка - три полоски - настроить)
 6. Зайти в Pixel Battle
