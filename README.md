@@ -1,4 +1,4 @@
-# Бот для пиксель баттл (вк, КБ)
+# Бот для пиксель баттл (вк, КБ(СОСАТЬЬЬЬ) )
 ### Установка PC
 1. Использовать браузер **Chrome** или **Yandex**
 2. Скачать расширение [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
